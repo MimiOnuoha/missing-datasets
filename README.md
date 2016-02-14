@@ -60,6 +60,7 @@ But a tricky aspect of dealing with missing data sets is that they hint at large
 
 As part of my [Data & Society](datasociety.net) fellowship, I'm working on a number of projects that aim to consider possible responses to missing data sets. This will be updated with documentation of those projects as they are published. 
 
+
 ---
 ## Resources 
 See Resources folder (note: folder to be continually updated). 
@@ -67,6 +68,10 @@ See Resources folder (note: folder to be continually updated).
 The Detroit Geographic Society could count as an old-school example of a response to something like this; see Catherine D'Ignazio's excellent [case study]("https://civic.mit.edu/blog/kanarinka/the-detroit-geographic-expedition-and-institute-a-case-study-in-civic-mapping") on it. 
 
 My [initial blogpost](http://mimionuoha.com/thoughts/2015/11/15/missing-datasets) about the topic. 
+
+Conceptual background expressed in [this piece](https://points.datasociety.net/the-point-of-collection-8ee44ad7c2fa#.y0xtfxi2p). [Added 2/12]
+
+
 
 
 
