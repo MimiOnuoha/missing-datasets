@@ -112,7 +112,7 @@ See Resources folder for articles and papers.
 
 ### Wise Words from Others  
 
-UPDATE 2/12/16: Adam Obeng, Columbia University sociology PhD candidate in who studies all things computational, sent me a thoughtful email in response to this repo. See below: 
+Adam Obeng, Columbia University sociology PhD candidate who studies all things computational, sent me a thoughtful email in response to this repo. See below: 
 
 >As a sociologist, I think this traces back to the rationalisation of
 governments and workplaces. If you're trying to make a systematic
