@@ -1,6 +1,7 @@
 # On Missing Data Sets
 
-*This repo will be periodically updated with more information, links, and topics.*
+*This repo will be periodically updated with more information, links, and topics. Most recent update: 08/12/16.*
+
 
 ---
 ## Overview
@@ -14,26 +15,52 @@
 The word "missing" is inherently normative, it implies both a lack and an ought: something does not exist, but it should. That which should be somewhere is not in its expected place; an established system is disrupted by distinct absence. Just because some type of data doesn't exist doesn't mean it's missing, and the idea of missing data sets is inextricably tied to a more expansive climate of inevitable and routine data collection.
 
 
+
+
 ### Why Do They Matter?
 
-The things we ignore reveal more than those we give our attention to. It’s in those things that we find hints of cultural and colloquial ideas of that which is deemed important. We only pay attention to the things that matter to us, so the things that we've left blank reveal our hidden social biases and indifferences.
+That which we ignore reveals more than what we give our attention to. It’s in these things that we find cultural and colloquial hints of what is deemed important. Spots that we've left blank reveal our hidden social biases and indifferences.
+
 
 ### Why Are They Missing? 
-There are a number of reasons why a data set that seems like it *should* exist might not. Below are just three, all results of the quietly complicated nature of data collection:
+There are a number of reasons why a data set that seems like it *should* exist might not, and they are all tied to the quiet complications inherent in data collection. Below are four reasons, with accompanying real-world examples. 
 
-1. Those who have the resources to collect the data lack an incentive to.
-2. The data to be collected resists simple quantification (corollary: we prioritize collecting things that fit our limited modes of collection).
-3. The act of collection involves a more work than the benefit that the presence of the data is perceived to give. 
+1. **Those who have the resources to collect data lack the incentive to.**
+   
+    Police brutality towards civilians provides a powerful example. Though policing and crime are among the most data-driven areas of public policy, traditionally there has been little history of standardized and rigorous data collected about police brutality. 
+	
+	Nowadays we've got a political and cultural climate where this issue has become one of public discussion. Public interest campaigns like [Fatal Encounters](http://www.fatalencounters.org/) and the Guardian’s [The Counted](http://www.theguardian.com/us-news/ng-interactive/2015/jun/01/the-counted-police-killings-us-database) have helped fill that void. But even for these individuals/organizations the work is difficult and time-consuming. The group who would make the most sense to monitor this issue—the law enforcement agents who *create* the data set in the first place—have no incentive to actually gather such data, which could prove incriminating.  
+	
+
+2. **The data to be collected resist simple quantification (corollary: we prioritize collecting things that fit our modes of collection).**
+
+	The defining tension of data collection is the struggle of taking a messy, organic world and defining it in formats that are neat, clean, and structured. 
+
+	Some things are difficult to collect and quantify by nature of their structure. We don't know how much US currency is [outside of our borders](http://www.federalreserve.gov/pubs/ifdp/2012/1058/ifdp1058.pdf). There's no incentive for other countries to monitor US currency within their countries, and the very nature of cash and the anonymity it affords makes it difficult to track.
+	
+	But then there are other subjects that resist quantification entirely. Things like emotions are hard to quantify (at this time, at least). Institutional racism is subtle and deniable; it reveals itself more in effects than in acts. Not all things are easily quantifiable, and at times the very desire to render the world more abstract, trackable, and machine-readable is an idea that itself deserves questioning. 
+	
+
+3. **The act of collection involves more work than the benefit the presence of the data is perceived to give.**
+	
+	Sexual assault and harrassment are [woefully](https://www.ncjrs.gov/pdffiles1/nij/grants/221153.pdf) [underreported](http://www.bjs.gov/content/pub/pdf/rsavcaf9513.pdf). And while there are many reasons why this is, one major one is that in many cases the very act of reporting sexual assault is a very intensive, painful, and difficult process. For some, the benefit of reporting isn't perceived to be equal or greater than the cost of the process. 
+	 
+
+4. **There are advantages to nonexistence.**
+
+	To collect, record, and archive aspects of the world is an intentional act. There are situations in which it can be advantageous for a group to remain outside of the oft-narrow bounds of collection. In short, sometimes a missing datset can function as a form of (protection)[http://nypost.com/2015/02/16/municipal-id-law-has-delete-in-case-of-tea-party-clause/]. 
+	</br></br>
 
 
-###  Any Examples? 
-Here's a well-known example: though policing and crime are among the most data-driven areas of public policy, there’s no history of data on police brutality. To this day, the only means through which data on civilians killed by legal enforcement agencies exists is through the public interest work of campaigns like [Fatal Encounters](http://www.fatalencounters.org/) and the Guardian’s [The Counted](http://www.theguardian.com/us-news/ng-interactive/2015/jun/01/the-counted-police-killings-us-database). 
 
-Below I've got an ever-expanding list of missing datasets. Contributions are extra welcome. 
+
+Below is an ever-expanding list of missing datasets. Contributions are extra welcome. 
 
 -----
 
 ## An Incomplete List of Missing Data Sets 
+</br>This list will always be incomplete, and is designed to be illustrative rather than comprehensive. 
+
 - Civilians killed in encounters with police or law enforcement agencies
 - Sales and prices in the art world (and relationships between artists and gallerists)
 - People excluded from public housing because of criminal records
@@ -53,27 +80,48 @@ Below I've got an ever-expanding list of missing datasets. Contributions are ext
 
 ----
 
-## Responses
-My hypothesis is that one answer to these missing datasets lies in those who have a stake in the data cooperating to disrupt the structures preventing access to it, a la Jonah Bossewitch and Aram Sinnreich's sousveillance society model (see Resources folder for paper). 
+## Responses & Hypotheses
 
-But a tricky aspect of dealing with missing data sets is that they hint at larger problems, and the answer to those problems **does not universally lie in collecting more data**. Sometimes the lack of these data can be just as empowering as their presence. 
+</br>As part of my [Data & Society](datasociety.net) fellowship, I'm working on a number of projects that aim to consider possible responses to missing data sets. This will be updated with documentation of those projects as they are published.
+ 
+- **Data won't solve all problems.** Data are useful for informing a debate, increasing knowledge, shaping a conversation, and providing context. Data can give the ability to have knowledge about trends, and how things have changed over time. But having data isn't enough to solve all problems (just because we now know how many people are killed in moments of police brutality doesn't mean that police brutality has ended. )
 
-As part of my [Data & Society](datasociety.net) fellowship, I'm working on a number of projects that aim to consider possible responses to missing data sets. This will be updated with documentation of those projects as they are published. 
+-  **Collective action is a strategy for resistance.** My hypothesis is that one answer to these missing datasets lies in those who have a stake in the data cooperating to disrupt the structures preventing access to it, a la Jonah Bossewitch and Aram Sinnreich's sousveillance society model (see Resources folder for paper). 
+  
+
+- **Lack of collection is also a strategy.** This has been said before, but bears repeating. A tricky aspect of dealing with missing data sets is that they hint at larger problems, and the answer to those problems does not universally lie in collecting more data. 
+
 
 
 ---
 ## Resources 
-See Resources folder (note: folder to be continually updated). 
 
-The Detroit Geographic Society could count as an old-school example of a response to something like this; see Catherine D'Ignazio's excellent [case study]("https://civic.mit.edu/blog/kanarinka/the-detroit-geographic-expedition-and-institute-a-case-study-in-civic-mapping") on it. 
+### Links 
 
-My [initial blogpost](http://mimionuoha.com/thoughts/2015/11/15/missing-datasets) about the topic. 
+["The Point of Collection"](https://points.datasociety.net/the-point-of-collection-8ee44ad7c2fa#.y0xtfxi2p) - a piece written for Data & Society's Points publication that expresses much of the conceptual background for this.
 
-Conceptual background expressed in [this piece](https://points.datasociety.net/the-point-of-collection-8ee44ad7c2fa#.y0xtfxi2p). [Added 2/12]
-
+["The Detroit Geographic Expedition and Institute: A Case Study in Civic Mapping""](https://civic.mit.edu/blog/kanarinka/the-detroit-geographic-expedition-and-institute-a-case-study-in-civic-mapping) - Catherine D'Ignazio's excellent case study on the Detroit Geographic Society, which was a fascinating 1960s response to missing data. 
 
 
+["Where We Live and How We Die"](https://howwegettonext.com/where-we-live-and-how-we-die-36eeb4c256ab) - article for How We Get To Next that explores death and data, highlighting how difficult it is to talk about both as a result of missing 
 
 
+### Papers
+See Resources folder for articles and papers. 
+
+
+### Wise Words from Others  
+
+UPDATE 2/12/16: Adam Obeng, Columbia University sociology PhD candidate in who studies all things computational, sent me a thoughtful email in response to this repo. See below: 
+
+>As a sociologist, I think this traces back to the rationalisation of
+governments and workplaces. If you're trying to make a systematic
+system, you need to remove discretion, which involves collecting lots
+and lots of data. Because you're trying to remove human discretion, the
+data are about people. In industry, this leads to Pearson's Law: "what
+is measured is improved". It's also why politicians grasp onto "hard"
+numbers, however dubious their source (e.g. opinion polls...).
+
+See his complete response in the Resources folder. 
 
 
