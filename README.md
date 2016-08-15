@@ -48,7 +48,7 @@ There are a number of reasons why a data set that seems like it *should* exist m
 
 4. **There are advantages to nonexistence.**
 
-	To collect, record, and archive aspects of the world is an intentional act. There are situations in which it can be advantageous for a group to remain outside of the oft-narrow bounds of collection. In short, sometimes a missing datset can function as a form of (protection)[http://nypost.com/2015/02/16/municipal-id-law-has-delete-in-case-of-tea-party-clause/]. 
+	To collect, record, and archive aspects of the world is an intentional act. There are situations in which it can be advantageous for a group to remain outside of the oft-narrow bounds of collection. In short, sometimes a missing datset can function as a form of [protection](http://nypost.com/2015/02/16/municipal-id-law-has-delete-in-case-of-tea-party-clause/). 
 	</br></br>
 
 
