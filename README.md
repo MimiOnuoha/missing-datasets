@@ -98,12 +98,12 @@ Below is an ever-expanding list of missing datasets. Contributions are extra wel
 
 ### Links 
 
-["The Point of Collection"](https://points.datasociety.net/the-point-of-collection-8ee44ad7c2fa#.y0xtfxi2p) - a piece written for Data & Society's Points publication that expresses much of the conceptual background for this.
+["The Point of Collection"](https://points.datasociety.net/the-point-of-collection-8ee44ad7c2fa#.y0xtfxi2p) - a piece I wrote for Data & Society's Points publication that expresses much of the conceptual background for this.
 
 ["The Detroit Geographic Expedition and Institute: A Case Study in Civic Mapping""](https://civic.mit.edu/blog/kanarinka/the-detroit-geographic-expedition-and-institute-a-case-study-in-civic-mapping) - Catherine D'Ignazio's excellent case study on the Detroit Geographic Society, which was a fascinating 1960s response to missing data. 
 
 
-["Where We Live and How We Die"](https://howwegettonext.com/where-we-live-and-how-we-die-36eeb4c256ab) - article for How We Get To Next that explores death and data, highlighting how difficult it is to talk about both as a result of missing 
+["Where We Live and How We Die"](https://howwegettonext.com/where-we-live-and-how-we-die-36eeb4c256ab) - article for How We Get To Next that explores death and data, highlighting how difficult it is to talk about both as a result of missing data. 
 
 
 ### Papers
