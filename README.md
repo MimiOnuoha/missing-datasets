@@ -43,7 +43,7 @@ There are a number of reasons why a data set that seems like it *should* exist m
 
 3. **The act of collection involves more work than the benefit the presence of the data is perceived to give.**
 	
-	Sexual assault and harrassment are [woefully](https://www.ncjrs.gov/pdffiles1/nij/grants/221153.pdf) [underreported](http://www.bjs.gov/content/pub/pdf/rsavcaf9513.pdf). And while there are many reasons why this is, one major one is that in many cases the very act of reporting sexual assault is a very intensive, painful, and difficult process. For some, the benefit of reporting isn't perceived to be equal or greater than the cost of the process. 
+	Sexual assault and harassment are [woefully](https://www.ncjrs.gov/pdffiles1/nij/grants/221153.pdf) [underreported](http://www.bjs.gov/content/pub/pdf/rsavcaf9513.pdf). And while there are many reasons why this is, one major one is that in many cases the very act of reporting sexual assault is a very intensive, painful, and difficult process. For some, the benefit of reporting isn't perceived to be equal or greater than the cost of the process. 
 	 
 
 4. **There are advantages to nonexistence.**
