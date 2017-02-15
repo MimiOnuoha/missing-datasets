@@ -82,7 +82,7 @@ Below is an ever-expanding list of missing datasets. Contributions are extra wel
 
 ## Responses & Hypotheses
 
-</br>As part of my [Data & Society](datasociety.net) fellowship, I'm working on a number of projects that aim to consider possible responses to missing data sets. This will be updated with documentation of those projects as they are published.
+</br>As part of my [Data & Society](http://www.datasociety.net) fellowship, I'm working on a number of projects that aim to consider possible responses to missing data sets. This will be updated with documentation of those projects as they are published.
  
 - **Data won't solve all problems.** Data are useful for informing a debate, increasing knowledge, shaping a conversation, and providing context. Data can give the ability to have knowledge about trends, and how things have changed over time. But having data isn't enough to solve all problems (just because we now know how many people are killed in moments of police brutality doesn't mean that police brutality has ended. )
 
